@@ -30,7 +30,7 @@
 <h3 id="preciso-imprimir-novamente-o-meu-boleto.-como-faço-isso">Preciso imprimir novamente o meu boleto. Como faço isso?</h3>
 <p>Simples! Vá na sua lista de Solicitações, e selecione o ícone de impressão no canto direito do Requerimento que você deseja reimprimir. Feito isso, o sistema irá te gerar um boleto e o mesmo aparecerá em sua tela.</p>
 <p><strong><img src="https://lh5.googleusercontent.com/eVFyOxtEFYvhLYifTnXclqiJbU2_ePqIWD8oYmPLIslXjdmI4C3unf6KdtfDuw_6gt_dZuDmJVvvA0dQw2NCRzuERYQMDGPKbCkOxuG3meY5830v-RG9GU_-6pmR3ejs0i8XnTrN" alt=""></strong></p>
-<h3 id="paguei-o-boleto-da-minha-solicitação-de-requerimento-de-autorização-de-pesquisa.-o-que-faço-agora">Paguei o boleto da minha Solicitação de Requerimento de Autorização de Pesquisa. O que faço agora?**</h3>
+<h3 id="paguei-o-boleto-da-minha-solicitação-de-requerimento-de-autorização-de-pesquisa.-o-que-faço-agora">Paguei o boleto da minha Solicitação de Requerimento de Autorização de Pesquisa. O que faço agora?</h3>
 <p>Agora você já está apto para finalizar o seu Requerimento de Pesquisa. É só ir nas suas Solicitações, e clicar na seta em vermelho no canto direito do Requerimento que deseja completar.</p>
 <p><strong><img src="https://lh5.googleusercontent.com/7dHx1l-b7PcRmCnbKtUy-gu2D8kA2b-CUdp2ZglHsYW0tTZkdcSyfvu_LYxn0CcuOfZjZPjOQe7eXWmCrkZo9FzxxGq3T8lGw6GG8FZpXymR7LMXrpoSFCz-P-5PJh1DvyfIg2Ha" alt=""></strong></p>
 <h1 id="passo-a-passo-requerimento-de-pesquisa"><strong>PASSO-A-PASSO REQUERIMENTO DE PESQUISA</strong></h1>
